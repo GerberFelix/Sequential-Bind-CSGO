@@ -1,6 +1,7 @@
 # Sequential-Bind-CSGO
 This tool creates custom console commands, allowing you to cycle through a series of messages with a single keypress in CS:GO.
-Edit: The commands also work for CS 2 :)
+
+**Edit: The commands also work for CS 2 :)**
 
 ## Features
 
