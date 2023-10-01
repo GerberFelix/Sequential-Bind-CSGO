@@ -52,7 +52,7 @@ To automatically execute the bind on game launch, follow these steps:
      - **Local Disk (C:)** -> **Program Files (x86)** -> **Steam** -> **steamapps** -> **common** -> **Counter-Strike Global Offensive** -> **csgo** -> **cfg**.
    - Place the "autoexec.cfg" file into the "cfg" folder.
 
-Now, when you launch CS:GO, your custom sequential bind will automatically be applied, enhancing your gaming experience.
+Now, when you launch CS:GO, your custom sequential bind will automatically be appliedg.
 
 
 **Note:** This program is provided for educational and entertainment purposes and is not officially endorsed by Valve Corporation, the developer of Counter-Strike: Global Offensive. Ensure compliance with CS:GO's terms of service when using this tool.
